@@ -3,7 +3,7 @@
 ```.py
 #Create a function to help Lily
 
-def numberMatches(lenght:int,speed:int)->int:
+def numberMatches(lenght:int,speed:int):
     number_matches = str(round((lenght/(speed/100))/5))
     return number_matches
 
