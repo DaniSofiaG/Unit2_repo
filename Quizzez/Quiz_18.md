@@ -10,3 +10,6 @@ def numberMatches(lenght:int,speed:int)->int:
 test1 = numberMatches(lenght= 12345, speed= 123)
 print(f" {test1} matches")
 ```
+
+<img width="1437" alt="Screen Shot 2022-11-14 at 13 53 49" src="https://user-images.githubusercontent.com/111941990/201578263-72821b76-a607-4643-a89c-ec879af079da.png">
+
