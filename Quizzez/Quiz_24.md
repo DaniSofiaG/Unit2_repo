@@ -1,4 +1,4 @@
-# Quiz 2
+# Quiz 24
 
 ```diff
 Create a program shows the graph of the parabola for 100 values of x in the interval -10 < x < 10   
