@@ -1,3 +1,7 @@
+# Quiz 26
+
+
+## Code
 ```.py
 import matplotlib.pyplot as plt
 import numpy as np
@@ -24,3 +28,10 @@ for i in x_model:
 plt.plot(x_model, y_model, color="purple")
 plt.show()
 ```
+
+## Pycharm 
+<img width="1286" alt="Screen Shot 2022-11-16 at 16 40 22" src="https://user-images.githubusercontent.com/111941990/202117895-322bc332-36d0-4805-bd2e-ef3e8f9fa2cd.png">
+
+
+## Graph
+<img width="369" alt="Screen Shot 2022-11-16 at 16 39 38" src="https://user-images.githubusercontent.com/111941990/202117916-0cc2349b-ee2c-4884-bf05-3ea0d2a53bb1.png">
