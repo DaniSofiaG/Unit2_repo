@@ -1,3 +1,4 @@
+```.py
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -22,3 +23,4 @@ for i in x_model:
 
 plt.plot(x_model, y_model, color="purple")
 plt.show()
+```
