@@ -29,5 +29,8 @@ plt.show()
 
 
 ## Pycharm
+<img width="1435" alt="Screen Shot 2022-11-16 at 17 38 48" src="https://user-images.githubusercontent.com/111941990/202131122-8c30808d-3d53-4ce8-8077-54f3d37a9c17.png">
+
 
 ## Graph
+<img width="639" alt="Screen Shot 2022-11-16 at 17 38 08" src="https://user-images.githubusercontent.com/111941990/202131152-6c27a95b-b2ef-4d2a-a397-905576a28681.png">
