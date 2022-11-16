@@ -30,7 +30,7 @@ plt.show()
 ```
 
 ## Pycharm 
-<img width="1286" alt="Screen Shot 2022-11-16 at 16 40 22" src="https://user-images.githubusercontent.com/111941990/202117895-322bc332-36d0-4805-bd2e-ef3e8f9fa2cd.png">
+<img width="1439" alt="Screen Shot 2022-11-16 at 16 50 28" src="https://user-images.githubusercontent.com/111941990/202119669-882d0bd0-a25e-4c4b-98e2-dac67f7cfc65.png">
 
 
 ## Graph
