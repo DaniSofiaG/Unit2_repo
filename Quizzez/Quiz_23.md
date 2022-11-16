@@ -1,4 +1,7 @@
 # Quiz 23
+```diff
+Create a program that produces the graph for the function in Quiz #22  
+```
 
 ## Code
 ```.py
