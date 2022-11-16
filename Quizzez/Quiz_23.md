@@ -33,3 +33,10 @@ plt.show()
 ```
 
 ## Pycharm
+<img width="654" alt="Screen Shot 2022-11-16 at 17 49 46" src="https://user-images.githubusercontent.com/111941990/202133558-71b03467-0308-4217-8f9e-d2a79d9947d9.png">
+<img width="1387" alt="Screen Shot 2022-11-16 at 17 50 03" src="https://user-images.githubusercontent.com/111941990/202133532-abe47e07-a81f-4bce-8581-d61fc1bd07f3.png">
+
+## Graph
+<img width="419" alt="Screen Shot 2022-11-16 at 17 44 29" src="https://user-images.githubusercontent.com/111941990/202133655-73e197fc-f337-4ec8-b29c-9d05f6da1ca4.png">
+
+
