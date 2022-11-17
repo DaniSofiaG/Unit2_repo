@@ -34,3 +34,11 @@ plt.show()
 
 ## Graph
 <img width="639" alt="Screen Shot 2022-11-16 at 17 38 08" src="https://user-images.githubusercontent.com/111941990/202131152-6c27a95b-b2ef-4d2a-a397-905576a28681.png">
+
+## Circuit Diagram
+```diff
+not(bit0 bit1 + not (bit0 + bit1)) 
+```
+![Untitled drawing](https://user-images.githubusercontent.com/111941990/202322520-1e3e3624-373b-4ce7-aa6a-5e4f57961c5f.jpg)
+
+
