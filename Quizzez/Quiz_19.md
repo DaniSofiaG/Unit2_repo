@@ -39,7 +39,7 @@ print(Test_3)
 
 
 ## Boolean Circuit: AB + not(B+C) + B(notC notA)
-<img width="1267" alt="Screen Shot 2022-11-18 at 17 54 14" src="https://user-images.githubusercontent.com/111941990/202661442-887dc3ff-2ab3-42a4-b6fe-9955638fd324.png">
+<img width="1149" alt="Screen Shot 2022-11-18 at 21 43 10" src="https://user-images.githubusercontent.com/111941990/202707632-12469eea-2801-4512-bd77-75f530c364fa.png">
 
 
 
