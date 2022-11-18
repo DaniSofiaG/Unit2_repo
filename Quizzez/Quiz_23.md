@@ -42,4 +42,10 @@ plt.show()
 ## Graph
 <img width="419" alt="Screen Shot 2022-11-16 at 17 44 29" src="https://user-images.githubusercontent.com/111941990/202133655-73e197fc-f337-4ec8-b29c-9d05f6da1ca4.png">
 
+## Truth table for: A(A ⊕ B)  
+<img width="956" alt="Screen Shot 2022-11-18 at 17 21 20" src="https://user-images.githubusercontent.com/111941990/202654904-9f253861-9e7f-428c-96b3-d3250dda168d.png">
+
+
+
+
 
