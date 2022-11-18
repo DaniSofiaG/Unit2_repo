@@ -35,5 +35,5 @@ print(table)
 <img width="1440" alt="Screen Shot 2022-11-18 at 19 42 14" src="https://user-images.githubusercontent.com/111941990/202686168-08bcbb60-a154-4997-bb89-e07ebbf41a0d.png">
 
 ## Truth table and circuit: Light = S1S2+(S2+S3(notS1))S1 
-<img width="1200" alt="Screen Shot 2022-11-18 at 21 03 13" src="https://user-images.githubusercontent.com/111941990/202701020-5b29920d-fbf3-401c-894c-4844b708876e.png">
 
+<img width="973" alt="Screen Shot 2022-11-18 at 21 11 33" src="https://user-images.githubusercontent.com/111941990/202702417-7585f7df-a411-430a-bda0-281411029269.png">
