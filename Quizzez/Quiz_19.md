@@ -23,21 +23,19 @@ def get_l3tt3rs(msg:str):
     return output
 
 #TESTING
-#1
-case1 = get_l3tt3rs(msg="Hello World")
-print(case1)
-#2
-case2 = get_l3tt3rs(msg="Why did I choose CS?")
-print(case2)
-#3
-case3 = get_l3tt3rs(msg="Remember the Figure Caption")
-print(case3)
-## Pycharm & Testing
+Test_1 = get_l3tt3rs(msg="Hello World")
+print(Test_1)
+
+Test_2 = get_l3tt3rs(msg="Why did I choose CS?")
+print(Test_2)
+
+Test_3 = get_l3tt3rs(msg="Remember the Figure Caption")
+print(Test_3)
 ```
 
 ## Pycharm & Testing
-<img width="1106" alt="Screen Shot 2022-11-18 at 18 41 35" src="https://user-images.githubusercontent.com/111941990/202671370-6925714f-5997-4275-ae69-b1c9aae2b820.png">
-<img width="1106" alt="Screen Shot 2022-11-18 at 18 41 35" src="https://user-images.githubusercontent.com/111941990/202671383-b56884fd-1943-408f-9e10-694b5976f161.png">
+<img width="1440" alt="Screen Shot 2022-11-18 at 18 47 16" src="https://user-images.githubusercontent.com/111941990/202672737-df567662-e34c-4fcf-8fd9-5fb611a74430.png">
+<img width="1440" alt="Screen Shot 2022-11-18 at 18 46 59" src="https://user-images.githubusercontent.com/111941990/202672509-f2781e06-1ffa-4e77-adaf-9d29f9e224eb.png">
 
 
 ## Boolean Circuit: AB + not(B+C) + B(notC notA)
