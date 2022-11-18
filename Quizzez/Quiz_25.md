@@ -33,3 +33,5 @@ plt.show()
 ## Graph
 <img width="469" alt="Screen Shot 2022-11-16 at 17 04 29" src="https://user-images.githubusercontent.com/111941990/202125858-b5fe4799-2c11-43bf-8bda-c0951ddda4d7.png">
 
+## Convert FFA5 to Decimal 
+
