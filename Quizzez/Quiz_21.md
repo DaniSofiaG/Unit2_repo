@@ -28,3 +28,12 @@ for i in range(8):
 
 ## Pycharm 
 <img width="1440" alt="Screen Shot 2022-11-19 at 11 44 52" src="https://user-images.githubusercontent.com/111941990/202830638-f3465e21-0d4c-44fd-a5d9-4e5877d8888f.png">
+
+## Truth table: X = ZW ⨁ (Z ⨁ Y(not W))
+<img width="872" alt="Screen Shot 2022-11-19 at 12 02 37" src="https://user-images.githubusercontent.com/111941990/202831196-01154292-49b3-46be-8f05-73bd54935ad2.png">
+
+## Circuit: X = ZW ⨁ (Z ⨁ Y(not W))
+<img width="760" alt="Screen Shot 2022-11-19 at 12 22 34" src="https://user-images.githubusercontent.com/111941990/202832137-22c4625e-5c6b-4ff8-89ae-207c6e9e4584.png">
+
+
+
