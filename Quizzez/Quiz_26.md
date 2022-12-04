@@ -39,3 +39,6 @@ plt.show()
 
 ## Graph
 <img width="369" alt="Screen Shot 2022-11-16 at 16 39 38" src="https://user-images.githubusercontent.com/111941990/202117916-0cc2349b-ee2c-4884-bf05-3ea0d2a53bb1.png">
+
+## Convert the following color in hex to rgb: #e6e627
+
