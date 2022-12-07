@@ -24,7 +24,7 @@ test1 = count_letters(vowels, "hello world")
 print(test1)
 ```
 
-## Python & Testing
+## Pycharm & Testing
 <img width="1211" alt="Screen Shot 2022-12-07 at 21 59 42" src="https://user-images.githubusercontent.com/111941990/206185885-d5708796-c94c-4b8a-92a8-64bca3068030.png">
 
 
