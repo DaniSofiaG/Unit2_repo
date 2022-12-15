@@ -10,30 +10,21 @@ data =  {
 
 ## Code
 ```.py
-import matplotlib.pyplot as plt
+from matplotlib import pyplot as plt
 
 data = {
-    "x": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16,17, 18, 19],
+    "x": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19],
     "y": [24, 1, 2, 25, 26, 21, 23, 34, 49, 2, 19, 32, 7, 17, 36, 7, 45, 28, 40, 46]
     }
 
-'''devide = str(data).split("]")
-
-y = (devide[1] [8: -1])
-x = (devide[0] [7: 75])
-print(list(x))'''
-
-data_list=list(data.values())
-x = (int(data_list[0]))
-y = (int(data_list[1])
-
-plt.plot(x, y)
+plt.plot(data["x"], data["y"])
+plt.title("Quiz028")
 plt.show()
 ```
 
 ## Pycharm
-<img width="525" alt="Screen Shot 2022-12-15 at 9 55 15" src="https://user-images.githubusercontent.com/111941990/207747113-0cc4a07a-540e-44c3-87fa-755d0ed91b4b.png">
+<img width="698" alt="Screen Shot 2022-12-15 at 21 21 52" src="https://user-images.githubusercontent.com/111941990/207858288-3884df09-c2a7-4ec1-9361-401d32a26e58.png">
 
 
 ## Graph
-
+<img width="368" alt="Screen Shot 2022-12-15 at 21 21 12" src="https://user-images.githubusercontent.com/111941990/207858271-39022424-badd-4396-b1ed-265a1465d435.png">
