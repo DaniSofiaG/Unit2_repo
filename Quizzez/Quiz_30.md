@@ -32,3 +32,8 @@ plt.show()
 
 ## Graph
 <img width="423" alt="Screen Shot 2022-12-07 at 22 04 01" src="https://user-images.githubusercontent.com/111941990/206186718-57cbdcee-eb89-4e6c-833f-1a312f09ba3f.png">
+
+## When was the internet first created? Remember to add your sources
+"January 1, 1983 is considered the official birthday of the Internet. Prior to this, the various computer networks did not have a standard way to communicate with each other. "
+#### MLA: 
+A Brief History of the Internet. (n.d.). https://www.usg.edu/galileo/skills/unit07/internet07_02.phtml
