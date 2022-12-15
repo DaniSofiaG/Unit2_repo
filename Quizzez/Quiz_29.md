@@ -29,3 +29,4 @@ print(test1)
 
 
 ## How many colors could you represent in a 6 bit computer?
+<img width="937" alt="Screen Shot 2022-12-15 at 9 50 52" src="https://user-images.githubusercontent.com/111941990/207746651-612062b8-0a15-4b51-9bea-9509d075219b.png">
