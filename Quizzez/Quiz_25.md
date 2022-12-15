@@ -34,4 +34,5 @@ plt.show()
 <img width="469" alt="Screen Shot 2022-11-16 at 17 04 29" src="https://user-images.githubusercontent.com/111941990/202125858-b5fe4799-2c11-43bf-8bda-c0951ddda4d7.png">
 
 ## Convert FFA5 to Decimal 
+<img width="578" alt="Screen Shot 2022-12-15 at 20 53 58" src="https://user-images.githubusercontent.com/111941990/207852859-9325587e-05e1-4af4-86a9-90544e2b0e82.png">
 
