@@ -53,6 +53,6 @@ plt.show()
 <img width="409" alt="Screen Shot 2022-12-05 at 8 19 34" src="https://user-images.githubusercontent.com/111941990/205521809-480c9323-8057-4c40-84a2-bf5aac216903.png">
 
 ## Convert the following rgb color to hex color: red=250, green=100, blue=10
+### #FA64A
 ![IMG_2059](https://user-images.githubusercontent.com/111941990/207844037-39dfde3c-2bb3-45f9-99fc-dfee0088899b.JPG)
-#FA64A
 
